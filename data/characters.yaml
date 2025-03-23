@@ -1,0 +1,211 @@
+darwin:
+    name: Darwin
+    player: Kagami
+    level: 1
+    attributes:
+        culture: Dwarf
+        class: Priest
+        alignment: Civilization
+    stats:
+        str:
+            value: 1
+            adj: Struggles with common tasks
+            desc: Whenever I need to open a jar of jam, I always have to ask for help.
+        dex:
+            value: 0
+            adj: Clumsy, blames luck
+            desc: Some people call me clumsy. Others call me unlucky. Why not both?
+        con:
+            value: 3
+            adj: Not very sturdy
+            desc: >
+                You wouldn't hit an old dwarf like me, would you? Please don't because I 
+                can't take much of it
+        int:
+            value: 2
+            adj: Innocently trusting
+            desc: >
+                I naively believe in the good of everyone. Nobody is beyond redemption. 
+                Hopefully. Surely.
+        wis:
+            value: 5
+            adj: Enlightened in the Monastery
+            desc: >
+                I spent years training as a Priest in the Monastery, studying matters 
+                both spiritual and worldly
+        cha:
+            value: 4
+            adj: Friendly and good mediator
+            desc: >
+                I am well known for my ability to mediate in a conflict and tend to get 
+                along well with everyone.
+                
+midas:
+    name: Midas
+    player: Prof. Midas
+    level: 1
+    attributes:
+        culture: Human
+        class: Commander
+        alignment: Savagery
+    stats:
+        str:
+            value: 0
+            adj: Weak fighter
+            desc: I wouldn't hurt a fly, I'd lose.
+        dex:
+            value: 2
+            adj: Experienced with blades.
+            desc: I know my way around a knife or two.
+        con:
+            value: 1
+            adj: Sickly and fragile
+            desc: A military background combined with an noble education makes my brain my weapon.
+        int:
+            value: 4
+            adj: Strategic and disciplined
+            desc: A military background combined with an noble education makes my brain my weapon
+        wis:
+            value: 3
+            adj: Cautious yet distrustful
+            desc: Past defeats have taught me lessons but I struggle to trust what I can't see.
+        cha:
+            value: 5
+            adj: Master manipulator
+            desc: I can lie as naturally as i breathe, motivate people to extremes.
+
+buk:
+    name: Buk
+    player: Marley
+    level: 1
+    attributes:
+        culture: Goblin
+        class: Rogue
+        alignment: Thievery
+    stats:
+        str:
+            value: 3
+            adj: Can carry their things
+            desc: My arms can carry my dagger AND my money at the same time.
+        dex:
+            value: 5
+            adj: Talented physical performer
+            desc: I can easily juggle with a lot of coin and do a flip at the same time.
+        con:
+            value: 2
+            adj: Damaged bones
+            desc: I m use to fell a lot and my bone are weak now.
+        int:
+            value: 1
+            adj: Struggling reader
+            desc: i can read word i swaire.
+        wis:
+            value: 4
+            adj: Big dreamer
+            desc: all i got to do it to follows the plans to get big.
+        cha:
+            value: 0
+            adj: Bad liar
+            desc:  ii can lie yee yes sometime...
+
+bun:
+    name: Bun
+    player: Azure
+    level: 1
+    attributes:
+        culture: Beastfolk
+        class: Sorcerer
+        alignment: Nature
+    stats:
+        str:
+            value: 0
+            adj: Weak at fighting
+            desc: Bruh, I'd lose a fistfight with a kid.
+        dex:
+            value: 4
+            adj: Quick
+            desc: Yeah, I'm a rabbit. What did you expect?
+        con:
+            value: 1
+            adj: Soft
+            desc: Soft as a pillow.
+        int:
+            value: 5
+            adj: Arcane studies
+            desc: Curiosity of the arcane sure helps
+        wis:
+            value: 3
+            adj: Common sense
+            desc: Why is everyone else so crazy?
+        cha:
+            value: 2
+            adj: Has no game
+            desc: Hello, ladies.
+
+maximus:
+    name: Maximus Pendragon
+    player: Shin
+    level: 1
+    attributes:
+        culture: Dragonborn
+        class: Eldcaller
+        alignment: Savagery
+    stats:
+        str:
+            value: 1
+            adj: Weak
+            desc: I may not be strong, but I know how to pick my fights.
+        dex:
+            value: 4
+            adj: Quick
+            desc: Fast on my feet, faster in battle.
+        con:
+            value: 3
+            adj: Healthy
+            desc: Strong enough to take a hit and keep going.
+        int:
+            value: 2
+            adj: Went to school
+            desc: I paid attention in class... sometimes.
+        wis:
+            value: 0
+            adj: Not wise
+            desc: Thinking ahead is for people with fewer options.
+        cha:
+            value: 5
+            adj: Charismatic
+            desc: When I speak, people listen.
+
+grawluk:
+    name: Grawluk
+    player: Grag
+    level: 1
+    attributes:
+        culture: Human (Northern tribes)
+        class: Barbarian
+        alignment: Savagery
+    stats:
+        str:
+            value: 5
+            adj: Smash
+            desc: Smash
+        dex:
+            value: 3
+            adj: Smash?
+            desc: Need to know how to smash
+        con:
+            value: 4
+            adj: Resilient
+            desc: Punny bullets tickles
+        int:
+            value: 0
+            adj: No formal education
+            desc: Doesn't know difficult words or concepts.
+        wis:
+            value: 1
+            adj: Recognizes allies
+            desc: Can make the difference between friend and enemy, not much else. Also simple "Me smash you!"
+        cha:
+            value: 2
+            adj: Atractive
+            desc: Muscles looks good and spooky
