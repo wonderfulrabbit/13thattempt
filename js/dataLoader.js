@@ -7,10 +7,10 @@ export let abilities = {};
 export let assets = {};
 
 export async function loadData() {
-    const response = await fetch("../data/characters.yaml");
-    const classResponse = await fetch("../data/classes.yaml");
-    const abilityResponse = await fetch("../data/abilities.yaml");
-    const assetResponse = await fetch("../data/assets.yaml");
+    const response = await fetch("https://raw.githubusercontent.com/Muchizuki/DnD/refs/heads/master/characters.yaml");
+    const classResponse = await fetch("https://raw.githubusercontent.com/Muchizuki/DnD/refs/heads/master/classes.yaml");
+    const abilityResponse = await fetch("https://raw.githubusercontent.com/Muchizuki/DnD/refs/heads/master/abilities.yaml");
+    const assetResponse = await fetch("https://raw.githubusercontent.com/Muchizuki/DnD/refs/heads/master/assets.yaml");
 
     const characterData = await response.text();
     const classData = await classResponse.text();
